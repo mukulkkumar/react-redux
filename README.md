@@ -1,3 +1,7 @@
+## React-Redux App 
+
+The repository is all about the react-redux functionality for buying the cake with the help of react-redux feature.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
